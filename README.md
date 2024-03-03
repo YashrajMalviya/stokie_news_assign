@@ -1,16 +1,9 @@
 # stokie
+## Result
 
-A new Flutter project.
 
-## Getting Started
+- ![Home Page](https://drive.google.com/file/d/1gQo7QJZt2fzpiKX4iPKdVA2dTVOSzanu/view?usp=drive_link)
+- ![NewsView Page](https://drive.google.com/file/d/1aiNt91cu0DlFEHJ-uOqtKiKqvGzFW-qC/view?usp=drive_link)
+- ![Video](https://drive.google.com/file/d/1lc9Hif8u5HEqXoq0Hc5s9TZxuMlQIODx/view?usp=drive_link)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
