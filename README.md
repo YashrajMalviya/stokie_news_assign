@@ -2,8 +2,11 @@
 ## Result
 
 
-- ![Home Page](https://drive.google.com/file/d/1gQo7QJZt2fzpiKX4iPKdVA2dTVOSzanu/view?usp=drive_link)
-- ![NewsView Page](https://drive.google.com/file/d/1aiNt91cu0DlFEHJ-uOqtKiKqvGzFW-qC/view?usp=drive_link)
-- ![Video](https://drive.google.com/file/d/1lc9Hif8u5HEqXoq0Hc5s9TZxuMlQIODx/view?usp=drive_link)
+<h3>Home Page</h3>
+<img src = "https://github.com/YashrajMalviya/personal-files-github/blob/main/Screenshot_20240303_161606.png" width =  "414" height = "896">
 
+<h3>NewsView Page</h3>
+<img src = "https://github.com/YashrajMalviya/personal-files-github/blob/main/Screenshot_20240303_162627.png" width =  "414" height = "896">
 
+<h3>Video</h3>
+https://drive.google.com/file/d/1lc9Hif8u5HEqXoq0Hc5s9TZxuMlQIODx/view?usp=drive_link
